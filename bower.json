@@ -1,0 +1,22 @@
+{
+  "name": "css-util-border-box",
+  "homepage": "https://github.com/Horttcore/css-util-border-box",
+  "authors": [
+    "Ralf Hortt <me@horttcore.de>"
+  ],
+  "description": "Universal Box Sizing with Inheritance",
+  "main": "border-box.css",
+  "keywords": [
+    "css",
+    "border-box",
+    "utility"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

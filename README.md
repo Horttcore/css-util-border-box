@@ -1,2 +1,6 @@
-# css-util-border-box
-bower css utility for border box
+# Universal Box Sizing with Inheritance
+
+https://css-tricks.com/box-sizing/
+
+## Installation
+`bower install css-util-border-box --save`

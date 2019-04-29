@@ -8,6 +8,8 @@ https://css-tricks.com/box-sizing/
 
 ## Changelog
 
+### v1.1.0
+
 -   Added `.sass`, `.scss` and `.min.css` files
 
 ### v1.0.0
